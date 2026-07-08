@@ -29,7 +29,7 @@ const rawDoctorConfig: DoctorConfig = {
     displayName: "Dr. Ananya Krishnan",
     credentialsSuffix: "BHMS, MD (Homeopathy)",
     tagline: "Personalized Homeopathic Care for Long-Term Wellness",
-    bio: "Dr. Ananya Krishnan is a classical homeopathic physician with a practice built on detailed case-taking and individualized remedy selection rather than protocol-based prescribing. Over the past sixteen years she has focused on chronic and constitutional conditions — autoimmune disorders, hormonal imbalances, dermatological conditions, and stress-related illness — treating the person's full symptom picture rather than isolated diagnoses. Her consultations are unhurried by design: a first appointment typically runs ninety minutes so that the case history is complete before any remedy is considered.",
+    bio: "Dr. Ananya Krishnan is a classical homeopathic physician with a practice built on detailed case-taking and individualized remedy selection rather than protocol-based prescribing. Over the past sixteen years she has focused on chronic and constitutional conditions — autoimmune disorders, hormonal imbalances, dermatological conditions, and stress-related illness — treating the person's full symptom picture rather than isolated diagnoses. ",
     yearsOfExperience: 16,
     totalConsultations: 24800,
     successRatePercentage: 91,
