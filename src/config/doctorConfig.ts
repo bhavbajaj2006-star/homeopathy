@@ -29,7 +29,7 @@ const rawDoctorConfig: DoctorConfig = {
     displayName: "Dr. Ananya Krishnan",
     credentialsSuffix: "BHMS, MD (Homeopathy)",
     tagline: "Personalized Homeopathic Care for Long-Term Wellness",
-    bio: "Dr. Ananya Krishnan is a classical homeopathic physician with a practice built on detailed case-taking and individualized remedy selection rather than protocol-based prescribing. Over the past sixteen years she has focused on chronic and constitutional conditions — autoimmune disorders, hormonal imbalances, dermatological conditions, and stress-related illness — treating the person's full symptom picture rather than isolated diagnoses. ",
+    bio: "Dr. Geetanjali Taneja is a classical homeopathic physician specializing in chronic and constitutional conditions. With sixteen years of experience, she provides detailed, personalized consultations focused on identifying the root cause of illness. Every treatment plan is carefully tailored to the individual's complete symptom profile for lasting wellness.",
     yearsOfExperience: 16,
     totalConsultations: 24800,
     successRatePercentage: 91,
@@ -235,8 +235,8 @@ const rawDoctorConfig: DoctorConfig = {
   social: [
     {
       platform: "instagram",
-      handle: "@prakritihomeopathy",
-      url: "https://instagram.com/prakritihomeopathy",
+      handle: "@drgeetanjali",
+      url: "https://instagram.com/",
     },
     {
       platform: "facebook",
@@ -245,8 +245,8 @@ const rawDoctorConfig: DoctorConfig = {
     },
     {
       platform: "linkedin",
-      handle: "Dr. Ananya Krishnan",
-      url: "https://linkedin.com/in/dr-ananya-krishnan",
+      handle: "Dr. Geetanjali Taneja",
+      url: "https://linkedin.com/",
     },
     {
       platform: "youtube",
@@ -255,7 +255,7 @@ const rawDoctorConfig: DoctorConfig = {
     },
     {
       platform: "whatsapp",
-      handle: "+91 98450 12345",
+      handle: "+91 9297579402",
       url: "https://wa.me/919845012345",
     },
   ],
